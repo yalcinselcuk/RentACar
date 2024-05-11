@@ -1,0 +1,12 @@
+C:\Users\yalci\Desktop\RentACar\corePackages\Core.Packages\Core.Persistence\bin\Debug\net7.0\Core.Persistence.deps.json
+C:\Users\yalci\Desktop\RentACar\corePackages\Core.Packages\Core.Persistence\bin\Debug\net7.0\Core.Persistence.dll
+C:\Users\yalci\Desktop\RentACar\corePackages\Core.Packages\Core.Persistence\bin\Debug\net7.0\Core.Persistence.pdb
+C:\Users\yalci\Desktop\RentACar\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.csproj.AssemblyReference.cache
+C:\Users\yalci\Desktop\RentACar\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yalci\Desktop\RentACar\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.AssemblyInfoInputs.cache
+C:\Users\yalci\Desktop\RentACar\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.AssemblyInfo.cs
+C:\Users\yalci\Desktop\RentACar\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\yalci\Desktop\RentACar\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.dll
+C:\Users\yalci\Desktop\RentACar\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\refint\Core.Persistence.dll
+C:\Users\yalci\Desktop\RentACar\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.pdb
+C:\Users\yalci\Desktop\RentACar\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\ref\Core.Persistence.dll
