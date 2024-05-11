@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Io4AV6BqojDu202B2WCZkCXvAP6ZXRqDy95d9BJhcRqjVT/zPg+vV7+R6LxY69Qs6c5lwyAEqF5IQjdtfKlb7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yalci\\Desktop\\RentACar\\rentACar\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yalci\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\yalci\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\yalci\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
